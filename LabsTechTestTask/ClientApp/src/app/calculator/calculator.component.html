@@ -1,0 +1,18 @@
+<div class="row">
+  <div class="col-md-3">
+    <input [(ngModel)]="request.operator1" type="number"/>
+  </div>
+  <div class="col-md-3">
+    <select [(ngModel)]="request.operand">
+      <option *ngFor="let c of operationTypes" [ngValue]="c.key">{{c.value}}</option>
+    </select>
+  </div>
+  <div class="col-md-3">
+    <input [(ngModel)]="request.operator2" type="number"/>
+  </div>
+  <div class="col-md-3">
+    {{ response?.result }}
+
+    <button class="btn" (click)="calculate()">Calculate</button>
+  </div>
+</div>

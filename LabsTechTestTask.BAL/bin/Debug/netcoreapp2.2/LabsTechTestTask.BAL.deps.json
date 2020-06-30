@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "LabsTechTestTask.BAL/1.0.0": {
+        "runtime": {
+          "LabsTechTestTask.BAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabsTechTestTask.BAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

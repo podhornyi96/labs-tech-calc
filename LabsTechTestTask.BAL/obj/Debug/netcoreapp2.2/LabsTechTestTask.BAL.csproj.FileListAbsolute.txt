@@ -1,0 +1,8 @@
+C:\Users\Vladyslav\source\repos\LabsTechTestTask\LabsTechTestTask.BAL\obj\Debug\netcoreapp2.2\LabsTechTestTask.BAL.csprojAssemblyReference.cache
+C:\Users\Vladyslav\source\repos\LabsTechTestTask\LabsTechTestTask.BAL\obj\Debug\netcoreapp2.2\LabsTechTestTask.BAL.AssemblyInfoInputs.cache
+C:\Users\Vladyslav\source\repos\LabsTechTestTask\LabsTechTestTask.BAL\obj\Debug\netcoreapp2.2\LabsTechTestTask.BAL.AssemblyInfo.cs
+C:\Users\Vladyslav\source\repos\LabsTechTestTask\LabsTechTestTask.BAL\bin\Debug\netcoreapp2.2\LabsTechTestTask.BAL.deps.json
+C:\Users\Vladyslav\source\repos\LabsTechTestTask\LabsTechTestTask.BAL\bin\Debug\netcoreapp2.2\LabsTechTestTask.BAL.dll
+C:\Users\Vladyslav\source\repos\LabsTechTestTask\LabsTechTestTask.BAL\bin\Debug\netcoreapp2.2\LabsTechTestTask.BAL.pdb
+C:\Users\Vladyslav\source\repos\LabsTechTestTask\LabsTechTestTask.BAL\obj\Debug\netcoreapp2.2\LabsTechTestTask.BAL.dll
+C:\Users\Vladyslav\source\repos\LabsTechTestTask\LabsTechTestTask.BAL\obj\Debug\netcoreapp2.2\LabsTechTestTask.BAL.pdb
